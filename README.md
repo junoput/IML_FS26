@@ -22,6 +22,12 @@ This repository contains lab exercises, datasets, and Jupyter notebooks for the 
   - Overfitting and regularization
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/IML_FS26/blob/main/week3/L03_Gradient_Descent.ipynb)
 
+- [**Week 4**: Logistic Regression](https://github.com/zhaw-physical-ai/IML_FS26/tree/main/week4)
+  - Logistic regression for binary classification
+  - Sigmoid function and decision boundaries
+  - Classification metrics and evaluation
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/IML_FS26/blob/main/week4/L04_Logistic_Regression.ipynb)
+
 
 ## How to use Google Colab
 
